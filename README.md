@@ -1,5 +1,11 @@
 # Actividad 1: Laboratorio Práctico en Google Colab - Grupo 2
 
+## Colaboradores
+
+- Steven Sánchez (@steven-sanchez-uees)
+- Joel Spin (@joel-espin-uees)
+- Cristina Gramal (@cristina-gramal)
+
 ## Estructura del Proyecto
 
 ```
