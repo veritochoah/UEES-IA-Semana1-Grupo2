@@ -33,6 +33,7 @@
 ## Menú
 
 - [Notebook 1 – Fundamentos NumPy y Pandas](./01_Fundamentos_NumPy_Pandas/01_Fundamentos_NumPy_Pandas.ipynb)
+  - <img src="./01_Fundamentos_NumPy_Pandas/01_iris_petal_ratio.png" alt="01_iris_petal_ratio" width="350"/>
 - [Notebook 2 – Visualización de Datos](./02_Visualizacion_Datos/02_Visualizacion_Datos.ipynb)
   - <img src="./02_Visualizacion_Datos/02_titanic_edad_clase.png" alt="02_titanic_edad_clase.png" width="350"/>
   - <img src="./02_Visualizacion_Datos/02_titanic_genero.png" alt="02_titanic_genero.png" width="350"/>
