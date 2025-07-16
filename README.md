@@ -20,6 +20,8 @@
 │   └── 04_Deep_Learning_Intro.ipynb
 │
 └── README.md
+│
+└── requirements.txt
 ```
 
 ## Menú
