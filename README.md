@@ -5,13 +5,15 @@
 ```
 ├── 01_Fundamentos_NumPy_Pandas
 │   ├── 01_Fundamentos_NumPy_Pandas.ipynb
-│   └── 01_iris_petal_ratio.png
+│   └── images
+│       └── 01_iris_petal_ratio.png
 │
 ├── 02_Visualizacion_Datos
-│   ├── 02_Visualizacion_Datos.ipynb
-│   ├── 02_titanic_genero.png
-│   ├── 02_titanic_edad_clase.png
-│   └── 02_wine_plot_interactivo.html
+│   └── images
+│       ├── 02_Visualizacion_Datos.ipynb
+│       ├── 02_titanic_genero.png
+│       ├── 02_titanic_edad_clase.png
+│       └── 02_wine_plot_interactivo.html
 │
 ├── 03_Machine_Learning_Basico
 │   └── 03_Machine_Learning_Basico.ipynb
@@ -27,11 +29,11 @@
 ## Menú
 
 - [Notebook 1 – Fundamentos NumPy y Pandas](./01_Fundamentos_NumPy_Pandas/01_Fundamentos_NumPy_Pandas.ipynb)
-  - <img src="./01_Fundamentos_NumPy_Pandas/01_iris_petal_ratio.png" alt="01_iris_petal_ratio" width="350"/>
+  - <img src="./01_Fundamentos_NumPy_Pandas/images/01_iris_petal_ratio.png" alt="01_iris_petal_ratio" width="350"/>
 - [Notebook 2 – Visualización de Datos](./02_Visualizacion_Datos/02_Visualizacion_Datos.ipynb)
-  - <img src="./02_Visualizacion_Datos/02_titanic_edad_clase.png" alt="02_titanic_edad_clase.png" width="350"/>
-  - <img src="./02_Visualizacion_Datos/02_titanic_genero.png" alt="02_titanic_genero.png" width="350"/>
-  - [Ver gráfico interactivo Wine](https://steven-sanchez-uees.github.io/UEES-IA-Semana1-Grupo2/02_Visualizacion_Datos/02_wine_plot_interactivo.html)
+  - <img src="./02_Visualizacion_Datos/images/02_titanic_edad_clase.png" alt="02_titanic_edad_clase.png" width="350"/>
+  - <img src="./02_Visualizacion_Datos/images/02_titanic_genero.png" alt="02_titanic_genero.png" width="350"/>
+  - [Ver gráfico interactivo Wine](https://steven-sanchez-uees.github.io/UEES-IA-Semana1-Grupo2/02_Visualizacion_Datos/images/02_wine_plot_interactivo.html)
 - [Notebook 3 – Machine Learning Básico](./03_Machine_Learning_Basico/03_Machine_Learning_Basico.ipynb)
 - [Notebook 4 – Introducción a Deep Learning](./04_Deep_Learning_Intro/04_Deep_Learning_Intro.ipynb)
 
