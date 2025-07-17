@@ -40,11 +40,16 @@
 ## Reporte
 
 ### Fundamentos NumPy y Pandas
+En el análisis se identificaron diferencias claras entre tipos de flores al comparar la proporción entre el largo y ancho de sus pétalos; Esta métrica permitió visualizar patrones que podrían ser útiles para clasificarlas automáticamente.
+
 - Se trabajó con el dataset **Iris**.
 - Se analizaron y manipularon datos utilizando arrays y DataFrames.
 - Se creó una nueva métrica "petal_ratio" que permitió observar diferencias entre especies de flores.
 
 ### Visualización de Datos
+El análisis del Titanic evidenció que la edad y el género estuvieron relacionados con la clase del pasajero, lo que sugiere desigualdad en la distribución de grupos a bordo.
+Además, se detectaron agrupaciones entre tipos de vino según su nivel de alcohol y acidez. Esto confirma que ciertas características químicas permiten distinguir vinos de forma visual, útil para clasificación o recomendaciones.
+
 - Se realizaron gráficos estadísticos con **Seaborn** y visualizaciones interactivas con **Plotly**.
 - Se analizó la relación entre variables del dataset **Titanic** como clase, edad y sexo.
 - Se generó un gráfico interactivo que muestra la distribución química del vino por tipo.
