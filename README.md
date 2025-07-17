@@ -49,8 +49,10 @@
 - Se analizó la relación entre variables del dataset **Titanic** como clase, edad y sexo.
 - Se generó un gráfico interactivo que muestra la distribución química del vino por tipo.
 
+
 > *Desarrollado por el Grupo 2 – Universidad Espíritu Santo (UEES)*
 > 
-> • Steven Sánchez [@steven-sanchez-uees](https://github.com/steven-sanchez-uees)  
-> • Joel Espín [@joel-espin-uees](https://github.com/joel-espin-uees)  
-> • Cristina Gramal [@cristina-gramal](https://github.com/cristina-gramal)  
+> Steven Sánchez [@steven-sanchez-uees](https://github.com/steven-sanchez-uees)  
+> Joel Espín [@joel-espin-uees](https://github.com/joel-espin-uees)  
+> Cristina Gramal [@cristina-gramal](https://github.com/cristina-gramal)
+> Veronica Ochoa [@veritochoah](https://github.com/veritochoah)
