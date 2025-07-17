@@ -9,7 +9,7 @@
 │       └── 01_iris_petal_ratio.png
 │
 ├── 02_Visualizacion_Datos
-    ├── 02_Visualizacion_Datos.ipynb
+│   ├── 02_Visualizacion_Datos.ipynb
 │   └── images
 │       ├── 02_Visualizacion_Datos.ipynb
 │       ├── 02_titanic_genero.png
