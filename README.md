@@ -11,7 +11,6 @@
 ├── 02_Visualizacion_Datos
 │   ├── 02_Visualizacion_Datos.ipynb
 │   └── images
-│       ├── 02_Visualizacion_Datos.ipynb
 │       ├── 02_titanic_genero.png
 │       ├── 02_titanic_edad_clase.png
 │       └── 02_wine_plot_interactivo.html
