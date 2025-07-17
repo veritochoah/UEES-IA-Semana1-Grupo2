@@ -1,1 +1,0 @@
-# UEES-IA-Semana1-Grupo2
