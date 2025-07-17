@@ -1,4 +1,4 @@
-# Actividad 1: Laboratorio Práctico en Google Colab - Grupo 2
+# Actividad 1: Laboratorio Práctico en Google Colab
 
 ## Estructura del Proyecto
 
